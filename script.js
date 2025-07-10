@@ -5,7 +5,7 @@ const askButton = document.getElementById("askButton");
 const form = document.getElementById("form");
 const aiResponse = document.getElementById("aiResponse");
 
-// AIzaSyAUPnDU55BjAOzFIxy5nEK8NqvEhQ3cEb8
+
 
 const askAI = async (question, game, apiKey) => {
   const model = "gemini-2.5-flash";
